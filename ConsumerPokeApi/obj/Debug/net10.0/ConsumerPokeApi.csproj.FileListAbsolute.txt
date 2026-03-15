@@ -1,0 +1,14 @@
+A:\Una\una-sdm-lista-06\ConsumerPokeApi\bin\Debug\net10.0\ConsumerPokeApi.exe
+A:\Una\una-sdm-lista-06\ConsumerPokeApi\bin\Debug\net10.0\ConsumerPokeApi.deps.json
+A:\Una\una-sdm-lista-06\ConsumerPokeApi\bin\Debug\net10.0\ConsumerPokeApi.runtimeconfig.json
+A:\Una\una-sdm-lista-06\ConsumerPokeApi\bin\Debug\net10.0\ConsumerPokeApi.dll
+A:\Una\una-sdm-lista-06\ConsumerPokeApi\bin\Debug\net10.0\ConsumerPokeApi.pdb
+A:\Una\una-sdm-lista-06\ConsumerPokeApi\obj\Debug\net10.0\ConsumerPokeApi.GeneratedMSBuildEditorConfig.editorconfig
+A:\Una\una-sdm-lista-06\ConsumerPokeApi\obj\Debug\net10.0\ConsumerPokeApi.AssemblyInfoInputs.cache
+A:\Una\una-sdm-lista-06\ConsumerPokeApi\obj\Debug\net10.0\ConsumerPokeApi.AssemblyInfo.cs
+A:\Una\una-sdm-lista-06\ConsumerPokeApi\obj\Debug\net10.0\ConsumerPokeApi.csproj.CoreCompileInputs.cache
+A:\Una\una-sdm-lista-06\ConsumerPokeApi\obj\Debug\net10.0\ConsumerPokeApi.dll
+A:\Una\una-sdm-lista-06\ConsumerPokeApi\obj\Debug\net10.0\refint\ConsumerPokeApi.dll
+A:\Una\una-sdm-lista-06\ConsumerPokeApi\obj\Debug\net10.0\ConsumerPokeApi.pdb
+A:\Una\una-sdm-lista-06\ConsumerPokeApi\obj\Debug\net10.0\ConsumerPokeApi.genruntimeconfig.cache
+A:\Una\una-sdm-lista-06\ConsumerPokeApi\obj\Debug\net10.0\ref\ConsumerPokeApi.dll
